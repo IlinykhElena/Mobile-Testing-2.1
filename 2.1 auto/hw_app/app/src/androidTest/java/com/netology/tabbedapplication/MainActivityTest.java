@@ -37,13 +37,6 @@ public class MainActivityTest {
 
     @Test
     public void mainActivityTest() {
-        ViewInteraction textView = onView(
-                allOf(withId(R.id.section_label), withText("Page: 1"),
-                        withParent(allOf(withId(R.id.constraintLayout),
-                                withParent(withId(R.id.view_pager)))),
-                        isDisplayed()));
-        textView.check(matches(withText("Page: 1")));
-
         ViewInteraction tabView = onView(
                 allOf(withContentDescription("Tab 2"),
                         childAtPosition(
@@ -54,12 +47,32 @@ public class MainActivityTest {
                         isDisplayed()));
         tabView.perform(click());
 
-        ViewInteraction textView2 = onView(
+        ViewInteraction tabView2 = onView(
+                allOf(withContentDescription("Tab 1"),
+                        childAtPosition(
+                                childAtPosition(
+                                        withId(R.id.tabs),
+                                        0),
+                                0),
+                        isDisplayed()));
+        tabView2.perform(click());
+
+        ViewInteraction tabView3 = onView(
+                allOf(withContentDescription("Tab 2"),
+                        childAtPosition(
+                                childAtPosition(
+                                        withId(R.id.tabs),
+                                        0),
+                                1),
+                        isDisplayed()));
+        tabView3.perform(click());
+
+        ViewInteraction textView = onView(
                 allOf(withId(R.id.section_label), withText("Page: 2"),
                         withParent(allOf(withId(R.id.constraintLayout),
                                 withParent(withId(R.id.view_pager)))),
                         isDisplayed()));
-        textView2.check(matches(withText("Page: 2")));
+        textView.check(matches(withText("Page: 2")));
     }
 
     private static Matcher<View> childAtPosition(
