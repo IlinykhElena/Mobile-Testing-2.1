@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd1315c2-1300-431c-8118-a9db6f554162" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../1.5 Sniffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.5 Sniffer/Скрин для Снифферинга.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.6 process/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/androidTest/java/com/netology/mqa_lesson_2_1/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/data/LoginDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/data/LoginRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/data/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/data/model/LoggedInUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/ui/login/LoggedInUserView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/ui/login/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/ui/login/LoginFormState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/ui/login/LoginResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/ui/login/LoginViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/java/com/netology/mqa_lesson_2_1/ui/login/LoginViewModelFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/layout-w1240dp/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/layout-w936dp/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/values-land/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/values-w600dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/app/src/test/java/com/netology/mqa_lesson_2_1/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_sample_app/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/2.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/pic/actions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/.github/workflows/android.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/androidTest/kotlin/ru/netology/testing/uiautomator/ChangeTextTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/java/ru/netology/testing/slides/Condition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/java/ru/netology/testing/slides/WaitMixin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/kotlin/ru/netology/testing/uiautomator/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/kotlin/ru/netology/testing/uiautomator/ShowTextActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/layout/activity_show_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/values-ru/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/app/src/test/kotlin/ru/netology/testing/uiautomator/LocalTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 UI Automator/sample/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology.xcodeproj/xcshareddata/xcschemes/Netology.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology/ContentView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology/NetologyApp.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/Netology/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/Project/NetologyUITests/NetologyUITests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 XCUITest/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/2.4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/calculator-appium-tests/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/calculator-appium-tests/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/calculator-appium-tests/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/calculator-appium-tests/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/calculator-appium-tests/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/calculator-appium-tests/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/calculator-appium-tests/src/main/java/ru/netology/qa/screens/MainScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/calculator-appium-tests/src/test/java/ru/netology/qa/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/screenshots/appium-doctor-android.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/screenshots/appium-inspector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Appium/screenshots/appium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/2.5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/java/ru/kkuzmichev/simpleappforespresso/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/java/ru/kkuzmichev/simpleappforespresso/ui/gallery/GalleryAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/java/ru/kkuzmichev/simpleappforespresso/ui/gallery/GalleryFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/java/ru/kkuzmichev/simpleappforespresso/ui/gallery/GalleryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/java/ru/kkuzmichev/simpleappforespresso/ui/gallery/GalleryViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/java/ru/kkuzmichev/simpleappforespresso/ui/home/HomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/java/ru/kkuzmichev/simpleappforespresso/ui/home/HomeViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/java/ru/kkuzmichev/simpleappforespresso/ui/slideshow/SlideshowFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/java/ru/kkuzmichev/simpleappforespresso/ui/slideshow/SlideshowViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/drawable/ic_menu_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/drawable/ic_menu_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/drawable/ic_menu_slideshow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/layout/app_bar_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/layout/fragment_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/layout/fragment_slideshow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/layout/list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/layout/nav_header_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/menu/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/values-land/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/values-w600dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/app/src/test/java/ru/kkuzmichev/simpleappforespresso/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5 Espresso/simpleAppForEspresso/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.6 Espresso-2/2.6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZfwxwpAKzDBYhPg2ygVMOFu3rW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/Elena/AndroidStudioProjects/HW21Auto/mqa-homeworks/2.1 auto/hw_app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1315c2-1300-431c-8118-a9db6f554162" name="Changes" comment="" />
+      <created>1702826695325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702826695325</updated>
+    </task>
+    <servers />
+  </component>
+</project>
